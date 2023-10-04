@@ -4,6 +4,8 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Card from "./pages/card";
 
+
+//this is 2nd push
 function App() {
 	const [count, setCount] = useState(0);
 
